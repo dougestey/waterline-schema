@@ -46,4 +46,7 @@ module.exports = [
   'moreInfoUrl',
   'example',
   'protect',
+  
+  // Monkey-patch: https://github.com/mdconaway/sails-ember-rest/issues/6
+  'includeIn',
 ];
